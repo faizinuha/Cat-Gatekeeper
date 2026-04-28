@@ -50,7 +50,8 @@ Cat Gatekeeper adalah ekstensi Chrome yang membantu kamu membatasi waktu penggun
 
 ## Credits
 
-- 🎥 Original Cat Videos by [@konekone2026 (ZOKUZOKU)](https://x.com/konekone2026) — Cat Gatekeeper Chrome Extension
+- 🎥 Original Cat Videos by [@konekone2026 (ZOKUZOKU)](https://x.com/konekone2026)
+ — Cat Gatekeeper Chrome Extension
 - 🛠️ Extraction & Modification by **Zaki**
 
 ---
