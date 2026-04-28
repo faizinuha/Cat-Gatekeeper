@@ -46,7 +46,7 @@ function mergeSettingsWithDefaults(settings) {
   };
 }
 
-if (siteKey || true) {
+if (true) {
   chrome.storage.local.get({
     sns: { allSites: false, x: true, facebook: true, reddit: true, youtube: true, threads: true, bluesky: true },
     usageLimit: 60,
